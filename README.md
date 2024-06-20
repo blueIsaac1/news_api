@@ -11,6 +11,6 @@ python manage.py runserver
 '''
 http://127.0.0.1:8000/api/news/
 '''
-| col 1      |
+|  IMAGE 1  |
 |------------|
 |![Captura de tela 2024-06-20 081553](https://github.com/blueIsaac1/news_api/assets/144810253/c25d95cb-124b-4a54-9ac5-5379013efaed)|
